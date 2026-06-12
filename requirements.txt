@@ -1,0 +1,5 @@
+# absichtlich aeltere versionen damit pip-audit schwachstellen findet (uebung 11)
+flask==2.0.1
+werkzeug==2.0.3
+jinja2==3.0.3
+requests==2.25.1
